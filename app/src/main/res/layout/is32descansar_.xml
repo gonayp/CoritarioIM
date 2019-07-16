@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<LinearLayout xmlns:android='http://schemas.android.com/apk/res/android'
+android:orientation='vertical'
+android:layout_width='match_parent'
+android:layout_height='match_parent' 
+>
+<TextView
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:text='32 DESCANSAR ' android:id='@+id/titulo'
+android:visibility='invisible'
+android:textSize='28dp' />
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='No quiero vivir pensando en el mañana,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='yo quiero ser feliz.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Días vienen y van, yo no temeré, puedo confiar en ti.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Si el futuro incierto es, seguiré adelante con fe.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Coro: ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Oh, Padre, en ti voy a descansar. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Descansar ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Y confiando en tu protección ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Descansar ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='en tus manos yo me entregaré. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Descansar  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Sé que cuidarás de mí, Señor,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='enséñame a descansar.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Cada paso que dé, y esté donde esté, quiero entregar a ti.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Cada decisión yo pondré en tus manos y esperaré. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Si Dios cuida las aves, sé que tengo mucho más valor.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Puedo esperar,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='[Coro] ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='En tus brazos encuentro paz para descansar. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Aunque muchos temores yo tenga, descansaré, ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y confiando en tu protección  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='en tus manos yo me entregaré. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Sé que cuidarás de mí, Señor,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='enséñame a descansar.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='“Venid a mí todos los que estáis trabajados y cansados, y yo os haré descansar”.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Mateo 11:28 ' android:textSize='18sp' />
+
+</LinearLayout>

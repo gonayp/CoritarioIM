@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<LinearLayout xmlns:android='http://schemas.android.com/apk/res/android'
+android:orientation='vertical'
+android:layout_width='match_parent'
+android:layout_height='match_parent' 
+>
+<TextView
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:text='78 OH AMOR DE DIOS  ' android:id='@+id/titulo'
+android:visibility='invisible'
+android:textSize='28dp' />
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                     F♯m              D         A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='¡Oh amor de Dios!, tu inmensidad  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                 E                    A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='el hombre no podrá contar,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='    A/ G♯       F♯m        D          A   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='ni comprender la gran verdad: ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                     E                       A– A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='que Dios al hombre pudo amar.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                        D                       A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Cuando el pecado entró al hogar  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                 E              A –A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='de Adán y Eva en Edén,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                    D                     A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Dios les sacó, mas prometió  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                E           A –A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='un Salvador también.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Coro:  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                        D                          A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='¡Oh amor de Dios!, brotando estás,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='              E              A– A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='inmensurable eternal.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                D                A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Por las edades durarás,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='          E             A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='inagotable raudal.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='             F♯m    D           A   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Si fuera tinta todo el mar,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                 E                       A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y todo el cielo un gran papel,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  A/ G♯    F♯m            D       A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y cada hombre un escritor,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='             E                A –A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y cada hoja un pincel,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                   D                     A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='para expresar su gran amor,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='              E            A – A7  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='no bastarían jamás.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                D                A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Él me salvó, y me lavó, ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                    E              A– A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y me da el cielo además.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='[Coro]  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                     F♯m        D      A   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Yo sé que el mundo pasará  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                 E                         A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='con cada trama y plan carnal,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  A/G♯  F♯m      D    A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y todo reino caerá,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                 E                   A – A7  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='con cada trono mundanal.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                  D                    A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Pero el amor del Redentor  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                      E     A –A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='por siempre durará;  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                      D                   A  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='La gran canción de salvación  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                  E         A –A7   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='su pueblo entonará.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='[Coro]  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='“En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='a nosotros, y envió a su Hijo en propiciación por nuestros pecados”. Juan 4:10 ' android:textSize='18sp' />
+
+</LinearLayout>

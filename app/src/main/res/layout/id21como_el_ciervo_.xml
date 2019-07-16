@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<LinearLayout xmlns:android='http://schemas.android.com/apk/res/android'
+android:orientation='vertical'
+android:layout_width='match_parent'
+android:layout_height='match_parent' 
+>
+<TextView
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:text='21 COMO EL CIERVO ' android:id='@+id/titulo'
+android:visibility='invisible'
+android:textSize='28dp' />
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  C             G        Am      G           ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Como el ciervo clama por las aguas,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='    F             G           C– G                   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='mi alma anhela a Dios.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  C    G          Am          C/G           ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Sólo tú satisfaces mi ansiedad  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='      F          G        F– C –C/B                    ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='llenándome de paz.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Coro:  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text=' Am Am/G        F          C           ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Sólo tú eres mi sostén,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='          F    F/E         Dm     E      ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='¿a quién iré sino sólo a ti?  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text=' C       G            Am       C/G           ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Yo te rindo mi vida entera  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='            F           G         F – C ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='para siempre a ti, Señor.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  C         G               Am    G            ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Cristo, tu eres mi amigo y mi hermano  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  F                  G              C – G                  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='aunque eres Rey también.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text=' C       G            Am       C/G           ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Yo te amo por sobre todo  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='          F       G         F– C –C/B                    ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y te alabo, mi Señor.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='[Coro]  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  C               G            Am       G           ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Más que al oro te anhelo a ti,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='    F             G           C– G                   ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='pues solo tú me podrás saciar.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='  C       G            Am   C/G            ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Sólo tú eres mi alegría,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='          F           G       F– C –C/B                    ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='la razón de mi existir.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='[Coro]  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+</LinearLayout>

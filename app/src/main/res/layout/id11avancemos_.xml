@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<LinearLayout xmlns:android='http://schemas.android.com/apk/res/android'
+android:orientation='vertical'
+android:layout_width='match_parent'
+android:layout_height='match_parent' 
+>
+<TextView
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:text='11 AVANCEMOS ' android:id='@+id/titulo'
+android:visibility='invisible'
+android:textSize='28dp' />
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='D        G       D       A          ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Avancemos en la luz,  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                    D           G                 ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Con fe y con valor luchemos  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                  D     A         D- D7 ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='unidos por una meta igual. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='       G         D         ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='La mies es mucha  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='    G                         A ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='y pocos los obreros son.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                  D              G ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Salgamos pues a trabajar de la mano  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='                  D     A        D ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='unidos por una meta igual.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='(Puede repetirse el canto completo, en E) ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='“A la verdad la mies es mucha, mas los obreros pocos. Rogad, pues, al Señor de la mies, que envíe obreros a ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='su mies”.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Mateo 9:37, 38 ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='' android:textSize='18sp' />
+
+</LinearLayout>

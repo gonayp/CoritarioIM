@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<LinearLayout xmlns:android='http://schemas.android.com/apk/res/android'
+android:orientation='vertical'
+android:layout_width='match_parent'
+android:layout_height='match_parent' 
+>
+<TextView
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:text='48 ÉS O MEU REFÚGIO ' android:id='@+id/titulo'
+android:visibility='invisible'
+android:textSize='28dp' />
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='És o meu refúgio, minha fortaleza, ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='meu socorro eterno, és o meu abrigo.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='És o meu refúgio, minha fortaleza, ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='meu socorro eterno, és o meu abrigo.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='Quando o mar se agitar  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='confiarei em ti, Senhor. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='E se a terra se abrir, ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='confiarei em ti, meu Deus. ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='(La primera parte de esta música puede cantarse en canon, en dos grupos, repitiendo el segundo ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='lo que le primero canta) ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='“Dios mío, fortaleza mía, en Él confiaré; mi escudo y el fuerte de mi salvación, mi alto refugio; Salvador mío, ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='de violencia me libraste”.  ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='II Samuel 22:3 ' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+<TextView 
+android:layout_width='wrap_content'
+android:layout_height='wrap_content'
+android:fontFamily='sans-serif' 
+android:typeface='serif' 
+android:textAppearance='?android:attr/textAppearanceLarge'
+android:text='
+' android:textSize='18sp' />
+
+</LinearLayout>

@@ -1,0 +1,86 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="NoActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+
+    <style name="BLACK" parent="android:Theme.Black">
+
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+    <style name="WHITE" parent="android:Theme.Holo.Light">
+
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+
+
+    <!-- Base application theme in values-v14 -->
+    	    <style name="IM" parent="android:Theme.Holo.Light.DarkActionBar">
+
+                <item name="android:windowActionBar">false</item>
+                <item name="android:windowNoTitle">true</item>
+
+
+    	        <item name="android:textColorPrimary">#FFD40000</item>
+                <item name="android:fontFamily">sans-serif</item>
+
+                <item name="android:textStyle">bold</item>
+
+    	        <!-- You can change the background
+    	        <item name="android:colorBackground">#FFDDDDDD</item>
+                <item name="android:background">#FFDDDDDD</item>
+                -->
+                <!-- You can change the text color in all widgets across the whole app
+                               <item name="android:editTextColor">#ffb62a23</item>
+                               <item name="android:textColorSecondary">#ffb62a23</item>
+                               <item name="android:textColorTertiary">#ffb62a23</item>
+                               <item name="android:textColorPrimaryInverse">#ffb62a23</item>
+                               <item name="android:textColorSecondaryInverse">#ffb62a23</item>
+                               <item name="android:textColorTertiaryInverse">#ffb62a23</item>
+                               -->
+
+
+    	        <!-- Change the font family with API 16+
+26	        android:fontFamily="sans-serif"
+27	        android:fontFamily="sans-serif-light"
+28	        android:fontFamily="sans-serif-condensed"
+29	        android:fontFamily="sans-serif-thin" -->
+
+
+    	        <!-- More font stuff from URL above
+35	        android:fontFamily   Font family (named by string) for the text.
+36	        android:shadowColor  Place a shadow of the specified color behind the text.
+37	        android:shadowDx     Horizontal offset of the shadow.
+38	        android:shadowDy     Vertical offset of the shadow.
+39	        android:shadowRadius     Radius of the shadow.
+40	        android:textAllCaps  Present the text in ALL CAPS.
+41	        android:textColor    Text color.
+42	        android:textColorHighlight   Color of the text selection highlight.
+43	        android:textColorHint    Color of the hint text.
+44	        android:textColorLink    Color of the links.
+45	        android:textSize     Size of the text.
+46	        android:textStyle    Style (bold, italic, bolditalic) for the text.
+47	        android:typeface     Typeface (normal, sans, serif, monospace) for the text.
+48	        -->
+
+
+
+    	    </style>
+
+
+
+
+
+
+</resources>

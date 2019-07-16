@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="inis.coritario">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_im"
+        android:label="@string/app_name"
+        android:theme="@style/NoActionBar" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ShowCoro"
+            android:label="@string/title_activity_coro"
+            android:theme="@style/NoActionBar" >
+        </activity>
+        <activity
+            android:name=".Listado"
+            android:label="@string/title_activity_listado" >
+        </activity>
+        <activity
+            android:name=".Configuracion"
+            android:label="@string/title_activity_configuracion" >
+        </activity>
+        <activity
+            android:name=".Acercade"
+            android:label="@string/title_activity_acercade" >
+        </activity>
+
+    </application>
+
+</manifest>

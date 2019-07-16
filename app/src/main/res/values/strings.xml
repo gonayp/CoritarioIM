@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coritario</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_coro">coro</string>
+
+    <string name="tamanyo">23</string>
+    <string name="title_activity_listado">Listado</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="title_activity_acercade">Acercade</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+
+</resources>
